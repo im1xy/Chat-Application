@@ -1,0 +1,32 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>Icons/astronaut (1).png</file>
+    <file>Icons/space-station.png</file>
+    <file>Icons/black-hole (1).png</file>
+    <file>Icons/satelite.png</file>
+    <file>Icons/telescope.png</file>
+    <file>Icons/galaxy.png</file>
+    <file>Icons/planet (1).png</file>
+    <file>Icons/rocket.png</file>
+    <file>Icons/neptune.png</file>
+    <file>Icons/alien.png</file>
+    <file>Icons/earth.png</file>
+    <file>Icons/jupiter.png</file>
+    <file>Icons/mercury.png</file>
+    <file>Icons/meteor.png</file>
+    <file>Icons/orbit.png</file>
+    <file>Icons/planet.png</file>
+    <file>Icons/satellite.png</file>
+    <file>Icons/solar-system.png</file>
+    <file>Icons/ufo.png</file>
+    <file>Icons/black-hole.png</file>
+    <file>Icons/astronaut.png</file>
+    <file>Icons/love.png</file>
+    <file>Icons/send (1).png</file>
+    <file>Icons/folder.png</file>
+    <file>Icons/chat.png</file>
+  </qresource>
+  <qresource prefix="images">
+    <file>Icons/5471985.jpg</file>
+  </qresource>
+</RCC>
