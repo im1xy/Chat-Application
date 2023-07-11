@@ -10,7 +10,7 @@ from chat_GUI import Chat_GUI
 
 import ctypes
 
-lib = ctypes.CDLL('./CLogin.dll')
+lib = ctypes.CDLL('./CLogin.dll') # In the same directory or provide full path to the file (in C++ Login Form)
 
 HOST = "192.168.0.42"
 PORT = 9100
